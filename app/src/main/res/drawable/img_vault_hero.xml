@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+    <path android:pathData="M0,0h360v180h-360z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="360"
+                android:endY="180"
+                android:type="linear">
+                <item android:color="#073B2A" android:offset="0.0" />
+                <item android:color="#0B6E4F" android:offset="0.6" />
+                <item android:color="#134E4A" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Decorative abstract circles -->
+    <path
+        android:fillColor="#1A34D399"
+        android:pathData="M300,30m-70,0a70,70 0,1 1,140 0a70,70 0,1 1,-140 0" />
+    <path
+        android:fillColor="#1AFBBF24"
+        android:pathData="M60,150m-55,0a55,55 0,1 1,110 0a55,55 0,1 1,-110 0" />
+    <!-- Growth bars -->
+    <path
+        android:fillColor="#3334D399"
+        android:pathData="M210,120h18v40h-18z" />
+    <path
+        android:fillColor="#5534D399"
+        android:pathData="M238,96h18v64h-18z" />
+    <path
+        android:fillColor="#8834D399"
+        android:pathData="M266,72h18v88h-18z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M294,44h18v116h-18z" />
+    <!-- Golden Shield / Coin Emblem -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,52c19.88,0 36,16.12 36,36s-16.12,36 -36,36s-36,-16.12 -36,-36s16.12,-36 36,-36z" />
+    <path
+        android:fillColor="#064E3B"
+        android:pathData="M78,62c14.36,0 26,11.64 26,26s-11.64,26 -26,26s-26,-11.64 -26,-26s11.64,-26 26,-26z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M75,72h6v32h-6zM68,80h20v5h-20zM68,91h20v5h-20z" />
+</vector>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Money My Plan (MMMP)</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_records">Records</string>
+    <string name="nav_accounts">Accounts</string>
+    <string name="nav_budgets">Budgets</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_settings">Vault &amp; FX</string>
+    <string name="action_add_record">Add Record</string>
+    <string name="label_net_worth">Total Net Worth</string>
+    <string name="label_brought_forward">Brought Forward (B/F)</string>
+    <string name="label_carried_forward">Carried Forward (C/F)</string>
+    <string name="label_monthly_income">Period Income</string>
+    <string name="label_monthly_expense">Period Expense</string>
+    <string name="label_encrypted_badge">AES-256-GCM Encrypted • 100% Offline</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="export_pdf">Export PDF Statement</string>
+    <string name="unlock_vault_title">My Money My Plan (MMMP) Vault Locked</string>
+    <string name="unlock_vault_subtitle">Authenticate with Biometrics or your 4-digit PIN to decrypt your financial ledger</string>
+</resources>

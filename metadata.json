@@ -1,0 +1,6 @@
+{
+  "name": "My Money My Plan (MMMP)",
+  "description": "Offline-first encrypted personal finance manager with multi-currency accounts, Balance Brought Forward (B/F) accounting, budgeting, interactive analytics, biometric security, and CSV/PDF statement exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
